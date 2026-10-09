@@ -1,0 +1,14 @@
+dataset: credit
+method: mosel
+
+alpha: 
+- .1
+- .5
+lr:
+- 0.001
+- 0.01
+use_scheduler: True
+scheduler_milestones: 
+- 30
+- 45
+split: 2

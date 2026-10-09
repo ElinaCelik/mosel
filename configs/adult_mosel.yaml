@@ -1,0 +1,12 @@
+dataset: adult
+method: mosel
+
+alpha: 0.5
+lr:
+- 0.001
+- 0.01
+use_scheduler: True
+scheduler_milestones: 
+- 15
+- 40
+split: 2

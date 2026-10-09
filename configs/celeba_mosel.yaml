@@ -1,0 +1,7 @@
+dataset: celeba 
+
+lr:
+- 0.00005
+- 0.0005
+
+split: 17

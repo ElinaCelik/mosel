@@ -1,0 +1,7 @@
+dataset: multi_fashion_mnist
+
+lr: 0.001
+
+normalization_type: loss+
+
+use_scheduler: True

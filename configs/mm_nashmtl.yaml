@@ -1,0 +1,5 @@
+dataset: multi_mnist
+
+lr: 0.001
+
+use_scheduler: True

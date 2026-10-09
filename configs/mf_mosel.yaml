@@ -1,0 +1,7 @@
+dataset: multi_fashion
+method: mosel
+
+alpha: 1.2
+lr:
+- 0.0001
+- 0.001

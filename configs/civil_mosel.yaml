@@ -1,0 +1,7 @@
+dataset: civil_comments 
+
+alpha: 0.5
+
+lr: 
+- 0.000002
+- 0.00002
